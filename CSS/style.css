@@ -1,0 +1,178 @@
+/********************************TAG SELECTOR***********************/
+body{
+    color: #40514E;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+
+h1{
+   color: #66bfbf;
+    font-size: 5.26rem;
+    margin: 50px auto 0 auto;
+    font-family: 'sacramento', cursive; 
+}
+
+h2{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #56b0b0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    border: dotted 6px #eaf6f6;
+    margin: 100px auto 100px auto;
+    border-bottom: none;
+    width: 4%;
+}
+
+a{
+    color: #228ad0;
+    margin: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+color: #eaf6f6;
+}
+
+.copyright{
+color: #eaf6f6;
+font-size: 0.80rem;
+padding:20px 0 0 0;
+}
+
+/********************************CLASS SELECTOR***********************/
+
+
+.profilepic{
+    width: 15%;
+}
+
+
+.top-container{
+    background-color: #e2f5f2;
+    margin-bottom: 100px;
+}
+.top-cloud{
+    max-width:15%;
+    height: auto;
+    position:relative;
+    left:350px;
+    margin-top: 50px;
+}
+    
+.intro{
+width: 40%;
+margin: auto;
+}
+
+
+
+.skill-row{
+width: 50%;
+margin: 100px auto 200px auto ;
+text-align: left;
+}
+
+
+
+.bottom-cloud{
+    max-width:15%;
+    height: auto;
+    position:relative;
+    bottom: 350px;
+    left: 150px;
+    
+}
+.mountain{
+    max-width:70%;
+    height: auto;
+    position:relative;
+    margin-top: 150px;
+     
+}
+.solutionimg{
+width: 25%;
+margin-right: 30px;
+float: right;
+}
+.globeimg{
+    margin-right: 30px;
+    width: 25%;
+    float: left;
+}
+.contact-me{
+    width: 30%;
+    margin: 40px auto 60px auto;
+}
+
+.button{
+    margin: 40px auto 10px auto;
+}
+
+.btn {
+    background: #99d6ff;
+    background-image: -webkit-linear-gradient(top, #99d6ff, #209ae6);
+    background-image: -moz-linear-gradient(top, #99d6ff, #209ae6);
+    background-image: -ms-linear-gradient(top, #99d6ff, #209ae6);
+    background-image: -o-linear-gradient(top, #99d6ff, #209ae6);
+    background-image: linear-gradient(to bottom, #99d6ff, #209ae6);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+    
+  }
+
+  
+  .bottom-container{
+background-color: #66bfbf;
+padding: 50px 0 30px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************ID SELECTOR***********************/
